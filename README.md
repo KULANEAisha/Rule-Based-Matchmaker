@@ -28,5 +28,5 @@ A rule-based compatibility scoring system for dating applications, implementing 
 
 ## Installation 
 ```bash
-git clone https://github.com/yourusername/APT3020-Matchmaking-System.git
-cd APT3020-Matchmaking-System
+git clone https://github.com/KULANEAisha/Rule-Based-Matchmaker.git
+cd Rule-Based-Matchmaker
